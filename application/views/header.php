@@ -6,6 +6,8 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="<?php echo base_url('bootstrap/js/bootstrap.js') ?>"></script>
 	<script src="<?php echo base_url('bootstrap/js/bootstrap.min.js') ?>"></script>
+	<script src="<?php echo base_url('js/user.js') ?>"></script>
+	<script> var url = "<?php echo base_url() ?>"</script>
 	<!-- <script src="<?php echo base_url('bootstrap/js/npm.js') ?>"></script> -->
 	<link rel="stylesheet" href="<?php echo base_url('bootstrap/css/bootstrap.css') ?>">
 	<link rel="stylesheet" href="<?php echo base_url('bootstrap/css/bootstrap.min.css') ?>">
